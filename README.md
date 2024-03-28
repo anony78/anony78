@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dora, a diligent and results-oriented cybersecurity professional committed to navigating the complexities of the digital landscape.<(p>
+<p align="left">My name is Dora, a diligent and results-oriented cybersecurity professional committed to navigating the complexities of the digital landscape.</p>
 
 
 
