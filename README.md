@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  second year of college<br>📚 I'm currently learning AWS,Ansible and Ethical hacking<br>🎯 Goals: To learn more things every day and to become betetr proffessional<br>🎲 Fun fact: I speak korean, croatian and english. And french is on my whish list...</p>
+<p align="left">✨ Creating bugs since  second year of college<br>📚 I'm currently preparing for RHCE, CKA and AWS certifications.<br>🌸Tools and Technologies:AWS, Azure, Burpsuite, Wireshark, ELK (Elasticsearch, Logstash, Kibana) SIEM,Nmap and Nessus.<br>💐Operating System: Kali Linux, Ubuntu, Android and Windows.<br>🎯 Goals: To learn more things every day and to become betetr proffessional<br>🎲 Fun fact: I speak korean, croatian and english. And french is on my whish list...</p>
 
 ###
 
